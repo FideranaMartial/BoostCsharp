@@ -1,0 +1,11 @@
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\bin\Debug\BoostCsharp.exe.config
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\bin\Debug\Database1.mdf
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\bin\Debug\Database1_log.ldf
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\bin\Debug\BoostCsharp.exe
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\bin\Debug\BoostCsharp.pdb
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\obj\Debug\BoostCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\obj\Debug\BoostCsharp.Form1.resources
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\obj\Debug\BoostCsharp.Properties.Resources.resources
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\obj\Debug\BoostCsharp.csproj.GenerateResource.Cache
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\obj\Debug\BoostCsharp.exe
+C:\Users\Fiderana\Documents\Visual Studio 2012\Projects\BoostCsharp\BoostCsharp\obj\Debug\BoostCsharp.pdb
